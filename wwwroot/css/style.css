@@ -1,0 +1,75 @@
+body {
+    
+    background: radial-gradient(circle, #00d9ff, #44116e);
+}
+
+a {
+    text-decoration: none;
+}
+
+.avatar {
+    width: 45px;
+    height: 45px;
+}
+
+.navbar {
+    background: linear-gradient(to right, #4c00ff, #e5ff00);
+}
+
+.custom-text-color {
+    background: -webkit-linear-gradient(#ffee00, #fbfffb); /* Yazıya gradient uygula */
+    -webkit-background-clip: text; /* Yazıya gradient uygulamak için */
+    -webkit-text-fill-color: transparent; /* Yazı rengini şeffaf yaparak gradientin görünmesini sağla */
+}
+
+.nav-link {
+    color: #0e036e;
+}
+
+.div-body {
+    background: radial-gradient(circle, #44116e, #00d9ff);
+}
+
+.title {
+    color: #eaee18;
+}
+
+.Description {
+    color: aliceblue;
+}
+
+.post-header {
+    color: #eaee18;
+}
+
+.card {
+    background: radial-gradient(circle, #362db8, #00d9ff);
+}
+
+.card-title {
+    color: #eaee18;
+}
+
+.comments {
+    color: aliceblue;
+}
+
+.tags {
+    color:aliceblue;
+}
+
+.line {
+    color: #eaee18;
+}
+
+.div-detail {
+    background: radial-gradient(circle, #362db8, #00d9ff);
+}
+
+.form-control {
+    background-color: #f8ffdb;
+}
+
+.User {
+    color: #e5ff00;
+}
